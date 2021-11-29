@@ -1,0 +1,22 @@
+{
+  "name": "fintualtarea1",
+  "version": "1.0.0",
+  "description": "Implementacion portafolio tarea",
+  "main": "tarea.js",
+  "scripts": {
+    "test": "node ./tarea.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rartigues/FintualTarea1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rartigues/FintualTarea1/issues"
+  },
+  "homepage": "https://github.com/rartigues/FintualTarea1#readme",
+  "dependencies": {
+    "yahoo-finance": "^0.3.7"
+  }
+}
