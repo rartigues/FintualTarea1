@@ -1,10 +1,10 @@
 {
   "name": "fintualtarea1",
   "version": "1.0.0",
-  "description": "",
-  "main": "test.js",
+  "description": "Implementacion portafolio tarea",
+  "main": "tarea.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./tarea.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rartigues/FintualTarea1#readme",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "yahoo-finance": "^0.3.7"
   }
 }
